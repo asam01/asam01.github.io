@@ -16,6 +16,6 @@ I work on Natural Language Processing and Speech Processing in the context of em
 
 News
 ------
-*October, 2025* 'SEER: The Span-Based Emotion Evidence Retrieval Benchmark' accepted to AACL 2025 [link](https://arxiv.org/abs/2510.03490)
-*May 2025* Passed my preliminary/qualifying exam
-*April 2025* Presented 'Efficient Finetuning for Dimensional Speech Emotion Recognition in the Age of Transformers' at ICASSP 2025 [link](https://ieeexplore.ieee.org/abstract/document/10889878)
+- *October, 2025* 'SEER: The Span-Based Emotion Evidence Retrieval Benchmark' accepted to AACL 2025 [link](https://arxiv.org/abs/2510.03490)
+- *May 2025* Passed my preliminary/qualifying exam
+- *April 2025* Presented 'Efficient Finetuning for Dimensional Speech Emotion Recognition in the Age of Transformers' at ICASSP 2025 [link](https://ieeexplore.ieee.org/abstract/document/10889878)

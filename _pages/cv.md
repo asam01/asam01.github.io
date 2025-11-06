@@ -37,7 +37,7 @@ Work experience
 ======
 * Summer 2022: Applied Research Intern
   * Microsoft Core Search & AI (Mountain View, CA)
-  * dDeveloped two new pipelines for Bing's search result title generation (mining & deep-learning)
+  * Developed two new pipelines for Bing's search result title generation (mining & deep-learning)
     * Increased title quantity by 3%; increased title quality in 60% of new titles
   * Designed a new dataset for Bing title generation with generative models
 
