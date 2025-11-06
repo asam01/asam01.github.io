@@ -1,11 +1,11 @@
-<!-- ---
+---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
---- -->
+---
 
 
 I am a third-year PhD student in the AI Lab at the University of Michigan, where I am advised by [Prof. Emily Mower Provost](https://emp.engin.umich.edu/). Before that, I received my B.S. in Artificial Intelligence from Carnegie Mellon University's School of Computer Science, where I was advised by [Prof. Louis-Philippe Morency](https://www.cs.cmu.edu/~morency/).
