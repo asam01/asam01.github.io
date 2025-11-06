@@ -23,7 +23,7 @@ repository               : "asam01/asam01.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "aneesha-headshot-square.jpg"
+  avatar           : "aneesha-headshot-square.png"
   name             : "Aneesha Sampath"
   pronouns         : # example: "she/her"  
   bio              : "3rd year PhD student in NLP/Speech for Emotional and Social Intelligence"
