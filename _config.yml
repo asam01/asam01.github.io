@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Aneesha Sampath / PhD Candidate"
+title                    : "Aneesha Sampath / PhD Student"
 title_separator          : "-"
 name                     : &name "Aneesha Sampath"
 description              : &description "Aneesha Sampath's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   avatar           : "aneesha-headshot-square.jpg"
   name             : "Aneesha Sampath"
   pronouns         : # example: "she/her"  
-  bio              : "3rd year PhD candidate in NLP/Speech for Emotional and Social Intelligence"
+  bio              : "3rd year PhD student in NLP/Speech for Emotional and Social Intelligence"
   location         : "Ann Arbor, MI"
   employer         : "University of Michigan"
   uri              : # URL
@@ -54,7 +54,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
