@@ -5,6 +5,8 @@ permalink: /projects/
 author_profile: true
 ---
 
+{% include base_path %}
+
 This page contains the projects I am currently working on.
 
 Aspect-Based Sentiment Analysis
