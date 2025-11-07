@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Aneesha Sampath / PhD Student"
+title                    : "Aneesha Sampath"
 title_separator          : "-"
 name                     : &name "Aneesha Sampath"
 description              : &description "Aneesha Sampath's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
