@@ -13,9 +13,9 @@
       {%- endif -%}
       {{- name_markup | strip -}}
       {%- unless forloop.last -%}
-        {%- if forloop.length == 2 -%} and 
-        {%- elsif forloop.index == forloop.length - 1 -%}, and 
-        {%- else -%}, 
+        {%- if forloop.length == 2 -%}&nbsp;and&nbsp;
+        {%- elsif forloop.index == forloop.length - 1 -%},&nbsp;and&nbsp;
+        {%- else -%},&nbsp;
         {%- endif -%}
       {%- endunless -%}
     {%- endfor -%}
