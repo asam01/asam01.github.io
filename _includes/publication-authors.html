@@ -22,12 +22,9 @@
   {%- endcapture %}
   <p class="publication__authors">
     {%- if include.label != false -%}
-      <strong>{{ include.label | default: "Authors" }}:</strong>
-      {%- if author_list -%}
-        {{ " " }}
-      {%- endif -%}
+      <span class="publication__authors-label">{{ include.label | default: "Authors" }}:</span>
     {%- endif -%}
-    {{ author_list | strip }}
+    <span class="publication__authors-list">{{ author_list | strip }}</span>
   </p>
 {% endif %}
 

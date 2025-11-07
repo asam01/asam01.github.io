@@ -48,6 +48,17 @@
   }
 }
 
+.archive__item {
+  .publication__venue {
+    margin-bottom: 0.15em;
+  }
+
+  .publication__authors {
+    margin-top: 0.15em;
+    margin-bottom: 0.5em;
+  }
+}
+
 /* remove border*/
 .page__content {
 
