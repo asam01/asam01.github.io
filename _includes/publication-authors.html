@@ -1,0 +1,33 @@
+{% if include.authors %}
+  {% capture author_list -%}
+    {%- for author in include.authors -%}
+      {%- capture name_markup -%}
+        {%- if author.url -%}
+          <a href="{{ author.url }}">{{ author.name }}</a>
+        {%- else -%}
+          {{ author.name }}
+        {%- endif -%}
+      {%- endcapture -%}
+      {%- if author.me or author.highlight -%}
+        {%- capture name_markup -%}<strong>{{ name_markup | strip }}</strong>{%- endcapture -%}
+      {%- endif -%}
+      {{- name_markup | strip -}}
+      {%- unless forloop.last -%}
+        {%- if forloop.length == 2 -%} and 
+        {%- elsif forloop.index == forloop.length - 1 -%}, and 
+        {%- else -%}, 
+        {%- endif -%}
+      {%- endunless -%}
+    {%- endfor -%}
+  {%- endcapture %}
+  <p class="publication__authors">
+    {%- if include.label != false -%}
+      <strong>{{ include.label | default: "Authors" }}:</strong>
+      {%- if author_list -%}
+        {{ " " }}
+      {%- endif -%}
+    {%- endif -%}
+    {{ author_list | strip }}
+  </p>
+{% endif %}
+
