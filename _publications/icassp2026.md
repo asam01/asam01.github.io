@@ -2,7 +2,6 @@
 title: "What You Feel Is Not What They See: On Predicting Self-Reported Emotion from Third-Party Observer Labels"
 collection: publications
 category: conferences
-permalink: /publications/icassp2026/
 link: https://arxiv.org/abs/2601.21130
 excerpt: 'Self-reported emotion labels capture internal experience, while third-party labels reflect external perception. These perspectives often diverge, limiting the applicability of third-party-trained models to self-report contexts. This gap is critical in mental health, where accurate self-report modeling is essential for guiding intervention. We present the first cross-corpus evaluation of third-party-trained models on self-reports. We find activation unpredictable (CCC approximately 0) and valence moderately predictable (CCC approximately 0.3). Crucially, when content is personally significant to the speaker, models achieve high performance for valence (CCC approximately 0.6-0.8). Our findings point to personal significance as a key pathway for aligning external perception with internal experience and underscore the challenge of self-report activation modeling.'
 date: 2026-04-01
