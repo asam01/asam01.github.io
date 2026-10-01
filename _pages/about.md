@@ -8,14 +8,16 @@ redirect_from:
 ---
 
 
-I am a third-year PhD student in the AI Lab at the University of Michigan, where I am advised by [Prof. Emily Mower Provost](https://emp.engin.umich.edu/). Before that, I received my B.S. in Artificial Intelligence from Carnegie Mellon University's School of Computer Science, where I was advised by [Prof. Louis-Philippe Morency](https://www.cs.cmu.edu/~morency/).
+I am a fourth-year PhD student in the AI Lab at the University of Michigan, where I am advised by [Prof. Emily Mower Provost](https://emp.engin.umich.edu/). Before that, I received my B.S. in Artificial Intelligence from Carnegie Mellon University's School of Computer Science, where I was advised by [Prof. Louis-Philippe Morency](https://www.cs.cmu.edu/~morency/).
 
 I work on Natural Language Processing and Speech Processing in the context of emotional and social intelligence in AI. Specifically, I have worked on (1) speech emotion recognition [[ICASSP 2025](https://ieeexplore.ieee.org/abstract/document/10889878), [ICASSP 2026](https://arxiv.org/abs/2601.21130)] and (2) emotion evidence benchmarking in LLMs [[AACL 2025]](https://arxiv.org/abs/2510.03490). I am interested in expanding this research to improve human-agent and multi-agent interaction.
 
+I am currently interning at [Honda Research Institute](https://usa.honda-ri.com/) in San Jose, CA, where I am working on improving social intelligence in realtime speech-to-speech models.
 
 
 News
 ------
+- **August 2026**: Started research internship at HRI in the Bay Area
 - **January 2026**: 'What You Feel Is Not What They See: On Predicting Self-Reported Emotion from Third-Party Observer Labels' accepted to ICASSP 2026 [[link]](https://arxiv.org/abs/2601.21130)
 - **October 2025**: 'SEER: The Span-Based Emotion Evidence Retrieval Benchmark' accepted to AACL 2025 [[link]](https://arxiv.org/abs/2510.03490)
 - **May 2025**: Passed my preliminary/qualifying exam and advanced to candidacy
