@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-{% assign cv_pdf_path = '/files/AneeshaResume3.21.2026.docx.pdf' | relative_url %}
+{% assign cv_pdf_path = '/files/AneeshaResume9.30.2026.docx.pdf' | relative_url %}
 
 <div class="page__content">
   <p>You can view my most recent CV below. A download link is also provided in case the embedded viewer does not load in your browser.</p>
